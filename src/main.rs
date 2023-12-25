@@ -5,7 +5,7 @@ use mongodb::Client;
 
 mod controller;
 mod model;
-
+mod service;
 
 
 #[actix_web::main]
